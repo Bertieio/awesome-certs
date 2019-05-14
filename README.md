@@ -1,5 +1,5 @@
 # Awesome-Certs
-### A curated list of all the qualifcations and certifications you could ever want!
+### A curated list of all the qualifications and certifications you could ever want!
 
 * Development
 * Admistration
