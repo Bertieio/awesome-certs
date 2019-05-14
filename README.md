@@ -9,7 +9,7 @@
     * osX
   * Client
     * Microsoft
-     * [MTA 98-349: Windows Operating System Fundamentals](/Bertieio/awesome-certs#mta-98-349-windows-operating-system-fundamentals)
+     * [MTA 98-349: Windows Operating System Fundamentals](#mta-98-349-windows-operating-system-fundamentals)
     * Linux
     * osX
   * Software 
