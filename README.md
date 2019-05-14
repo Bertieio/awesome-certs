@@ -1,2 +1,17 @@
-# awesome-certs
-BIG list of all the quantification and certification you could ever want!
+# Awesome-Certs
+### A curated list of all the qualifcations and certifications you could ever want!
+
+* Development
+* Admistration
+  * Server
+    * Microsoft
+    * Linux
+    * osX
+  * Client
+    * Microsoft
+    * Linux
+    * osX
+  * Software 
+    * Microsoft
+    * Linux
+    * osX
